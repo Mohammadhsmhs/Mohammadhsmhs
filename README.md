@@ -1,4 +1,4 @@
-### Hi, I'm Mohammad 👋
+### Hi, I'm Mo 👋
 
 I'm a Senior Software Engineer who builds high-performance mobile apps and a specialist in Applied AI/ML. My passion is bridging the gap between scalable engineering and cutting-edge machine learning.
 
@@ -39,11 +39,6 @@ I'm a Senior Software Engineer who builds high-performance mobile apps and a spe
 
 ---
 
-### 📊 My GitHub Stats
-
-[![Mohammad's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Mohammadhsmhs&show_icons=true&theme=transparent&hide_border=true&title_color=FFFFFF&text_color=FFFFFF&icon_color=02569B)](https://github.com/Mohammadhsmhs)
-
----
 
 ### ⚡ Find me elsewhere
 
